@@ -94,29 +94,55 @@ JLU_HUAWEI-Experiment/
 
 ## 📸 项目展示
 
-<div align="center">
+**pink cube forward:**
 
-### 视频演示
-
-https://github.com/user-attachments/assets/d5d1bf33-516a-409d-a876-fd6d2ea77163
-
-https://github.com/user-attachments/assets/36b4159f-e1ae-4ec7-9b51-9603651e5ff1
-
-https://github.com/user-attachments/assets/0dd70806-1985-40c0-a31c-0de6ae516084
-
+<div align='center'>
+    
 https://github.com/user-attachments/assets/390d4d4b-3fe4-4955-a18c-3e62185675b2
 
 https://github.com/user-attachments/assets/350021f1-3ed4-45e9-9a86-e853747d65fd
 
+</div>
+
+**pink cube backeard:**
+
+<div align='center'>
+    
+https://github.com/user-attachments/assets/0dd70806-1985-40c0-a31c-0de6ae516084
+
+https://github.com/user-attachments/assets/36b4159f-e1ae-4ec7-9b51-9603651e5ff1
+
+</div>
+
+**pink cube forward right:**
+
+<div align='center'>
+    
 https://github.com/user-attachments/assets/6c9370f6-1200-44f6-ac24-84420d1c7364
 
 https://github.com/user-attachments/assets/bde503a5-5b78-4632-b105-0fc0c74531f7
 
+</div>
+
+**pink cube tracker:**
+
+<div align='center'>
+    
 https://github.com/user-attachments/assets/04cee0c6-dfa7-4be5-b723-5524ee6d8ff7
 
+https://github.com/user-attachments/assets/d5d1bf33-516a-409d-a876-fd6d2ea77163
+
+</div>
+
+**yellow cube tracker:**
+
+<div align='center'>
+    
 https://github.com/user-attachments/assets/814f30e3-345f-4355-ae93-0925c00add43
 
 https://github.com/user-attachments/assets/99078d1e-29b3-49ad-b53b-35ddc5722a28
+
+</div>
 
 ## 🤝 贡献指南
 
